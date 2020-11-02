@@ -8,14 +8,14 @@ The project consist of pulse sensor connected to arduino board, to calculate the
 ![alt text](https://raw.githubusercontent.com/diannatarahman/nano-rf24-transmit-receive/master/images/Image%201.png)
 
 A single measurement device consists of:
-•	Microcontroller Arduino Nano
-•	Pulse sensor
-•	nRF24L01 transceiver module
-•	Battery and switch
+-	Microcontroller Arduino Nano
+-	Pulse sensor
+-	nRF24L01 transceiver module
+-	Battery and switch
 
 The receiver device consists of:
-•	Microcontroller Arduino Nano (connected to PC via serial communication)
-•	nRF24L01 transceiver module
+-	Microcontroller Arduino Nano (connected to PC via serial communication)
+-	nRF24L01 transceiver module
 
 ## A measurement device testing:
 ![alt text](https://raw.githubusercontent.com/diannatarahman/nano-rf24-transmit-receive/master/images/Image%202.jpg)
